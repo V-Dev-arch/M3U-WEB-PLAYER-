@@ -32,20 +32,13 @@ MOBILE
 <div align="center"><img src="https://files.catbox.moe/l3j45a.jpg" width="400"></div>---
 
 
+<div align="center"><img src="https://files.catbox.moe/18nvj1.png" width="400"></div>---
 
 
 
-<div align="center">
-<img src="" alt="Channels Screenshot" width="90%">
-</div>🔎 Search
 
-<div align="center">
-<img src="" alt="Search Screenshot" width="90%">
-</div>🌙 Dark Theme
 
-<div align="center">
-<img src="" alt="Dark Theme Screenshot" width="90%">
-</div>---
+
 
 ## Features
 
