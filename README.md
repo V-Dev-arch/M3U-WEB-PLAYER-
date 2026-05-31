@@ -130,6 +130,11 @@ Displays playlist channels along with:
 - Organized browsing experience
 
 ---
+## PRIVACY FOCUSED
+
+When you will refresh the page all the data will be cleared automaticaly.
+
+---
 
 ## Getting Started
 
