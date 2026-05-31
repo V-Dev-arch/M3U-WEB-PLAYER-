@@ -1,4 +1,4 @@
-<div align="center"> # M3U-WEB-PLAYER
+# M3U-WEB-PLAYER
 
 Modern • Lightweight • Responsive • User-Friendly
 
