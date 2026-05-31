@@ -164,7 +164,7 @@ You just need a good browsr that's it!!
 
 ---
 
-##🎯 Project Goals
+## Project Goals
 
 - Provide a clean M3U playlist browsing experience.
 - Keep the interface lightweight and fast.
