@@ -25,11 +25,11 @@ Whether you're using a desktop browser, a mobile device, or a TV browser, M3U-WE
 
 «Replace the image links below with your own screenshots after uploading them.»
 
-## Home
+MOBILE 
 
 <div align="center">
-<img src="" alt="Home Screenshot" width="90%">
-</div>📺 Channels
+<img src="" alt="https://files.catbox.moe/l3j45a.jpg" width="90%">
+</div>
 
 <div align="center">
 <img src="" alt="Channels Screenshot" width="90%">
