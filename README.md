@@ -29,10 +29,10 @@ MOBILE
 
 
 
-<div align="center"><img src="https://files.catbox.moe/l3j45a.jpg" width="400"></div>---
+<div align="center"><img src="https://files.catbox.moe/l3j45a.jpg" width="209"></div>---
 
 
-<div align="center"><img src="https://files.catbox.moe/18nvj1.png" width="400"></div>---
+<div align="center"><img src="https://files.catbox.moe/18nvj1.png" width="950"></div>---
 
 
 
