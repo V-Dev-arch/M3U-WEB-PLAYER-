@@ -38,7 +38,19 @@ Tv/Computer
 
 
 
+# PLAYER
+The player supports
+- Upto 50 seconds rewind
+- Play/pause even on live channels
+- Subtitles if avaliable
+- Playback speed from 0.25 to 2 Max even on live channels
+- PIP support if device supports
 
+  ## Supported formats for live channels
+  - ts
+  - m3u8
+  
+  ---
 
 
 
@@ -113,7 +125,7 @@ Tv/Computer
 
 ---
 
-## Application Sections
+# Application Sections
 
 ## Home
 
@@ -155,7 +167,7 @@ Load Playlist from File
 
 ---
 
-## Compatibility
+# Compatibility
 
 You just need a good browsr that's it!!
 ---
