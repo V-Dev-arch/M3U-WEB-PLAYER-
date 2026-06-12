@@ -1,4 +1,4 @@
-# M3U-WEB-PLAYER
+# M3UPlay
 
 Modern • Lightweight • Responsive • User-Friendly
 
