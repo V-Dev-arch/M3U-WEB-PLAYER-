@@ -235,7 +235,7 @@ If you would like to contribute:
 ---
 ## VISIT NOW
 
-m3uplay.xo.je
+https://m3uplay.xo.je
 
 ## Support
 
